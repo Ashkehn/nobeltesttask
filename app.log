@@ -1,0 +1,9 @@
+2024-09-04T14:45:19.474+04:00  INFO 18732 --- [rockpapersscissors] [main] c.n.r.RockpapersscissorsApplication      : Starting RockpapersscissorsApplication using Java 21.0.4 with PID 18732 (C:\Users\nashk\Desktop\rockpapersscissors\build\classes\java\main started by nashk in C:\Users\nashk\Desktop\rockpapersscissors)
+2024-09-04T14:45:19.476+04:00  INFO 18732 --- [rockpapersscissors] [main] c.n.r.RockpapersscissorsApplication      : The following 1 profile is active: "prod"
+2024-09-04T14:45:20.169+04:00  INFO 18732 --- [rockpapersscissors] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8060 (http)
+2024-09-04T14:45:20.180+04:00  INFO 18732 --- [rockpapersscissors] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-04T14:45:20.182+04:00  INFO 18732 --- [rockpapersscissors] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-04T14:45:20.216+04:00  INFO 18732 --- [rockpapersscissors] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-04T14:45:20.216+04:00  INFO 18732 --- [rockpapersscissors] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 701 ms
+2024-09-04T14:45:20.489+04:00  INFO 18732 --- [rockpapersscissors] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8060 (http) with context path '/'
+2024-09-04T14:45:20.496+04:00  INFO 18732 --- [rockpapersscissors] [main] c.n.r.RockpapersscissorsApplication      : Started RockpapersscissorsApplication in 1.369 seconds (process running for 1.884)
